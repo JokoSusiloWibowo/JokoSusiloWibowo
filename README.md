@@ -16,6 +16,7 @@ Hello there! 👋 I'm BalmondFeed, a passionate individual with a keen interest 
 - **Project 2:** [Project Name](link-to-project) - Brief description.
 - **Project 3:** [Project Name](link-to-project) - Brief description.
 
+## 🚀 GitHub Stats
 ![Balmondfeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balmondfeed&show_icons=true&hide_title=true&count_private=true&hide=issues,prs)
 
 ## Connect with Me
