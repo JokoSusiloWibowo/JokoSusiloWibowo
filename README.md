@@ -36,4 +36,4 @@ I am a passionate Python developer with a love for problem-solving and creating 
 - Website: [jokosw.dev](https://jokosw.dev)
 
 ## GitHub Statistics
-[![JokoSusiloWibowo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryHengZJ&show_icons=true&theme=dark)](https://github.com/HenryHengZJ)
+[![JokoSusiloWibowo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokoSusiloWibowo&show_icons=true&theme=dark)](https://github.com/HenryHengZJ)
